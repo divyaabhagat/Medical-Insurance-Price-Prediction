@@ -40,4 +40,4 @@ def get_insurance():
         return render_template("index.html",charges=charges1)
     
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0")
