@@ -2,3 +2,4 @@ pandas==2.1.4
 scikit-learn @ file:///C:/b/abs_38k7ridbgr/croot/scikit-learn_1684954723009/work
 scipy==1.11.4
 numpy
+flask
